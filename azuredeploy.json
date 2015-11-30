@@ -84,9 +84,9 @@
         }
     },
     "variables": {
-        "imagePublisher": "MicrosoftWindowsServer",
-        "imageOffer": "WindowsServer",
-        "imageSKU": "2012-R2-Datacenter",
+        "imagePublisher": "MicrosoftSQLServer",
+        "imageOffer": "SQL2014-WS2012R2",
+        "imageSKU": "Enterprise-Optimized-for-DW",
         "vmStorageAccountContainerName": "vhd",
         "OSDiskName": "osdisk",
         "publicIPAddressType": "Dynamic",
